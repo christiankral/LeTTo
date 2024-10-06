@@ -16,7 +16,7 @@ In der Titelzeile finden Sie Klasse, Schuljahr und Gegenstandbezeichnung sowie e
 * ![20px-ClipCapIt-180826-181352.PNG](20px-ClipCapIt-180826-181352.PNG): Druck des Katogs in ein PDF-Dokument
 
 In der zweiten Zeile finden Sie folgenden Buttons:
-* **Neue Klassenweise Beurteilung**: Fügt eine neue [Klassenweise Beurteilungen](#klassenweise-beurteilungen-) ein
+* **Neue Klassenweise Beurteilung**: Fügt eine neue [Klassenweise Beurteilungen](#klassenweise-beurteilungen) ein
 * **Leistungsübersicht**: Anzeige einer Leistungsübersicht für alle Schüler der Klassen inklusive **kompetenzorientierter Auswertung**.
 * ![35px-ClipCapIt-180826-181736.PNG](35px-ClipCapIt-180826-181736.PNG): Anzeige des angewendeten Beurteilungsschemas und der dort definierten Einstellungen
 * ![35px-ClipCapIt-180826-181832.PNG](35px-ClipCapIt-180826-181832.PNG): Umschalten zwischen der eigenen Ansicht und der Summenansicht über alle Lehrer, die in einer Klasse den selben Gegenstand unterrichten (zB. Labor mit 4 Lehrern in der gleichen Klasse).
@@ -27,11 +27,11 @@ Darunter finden Sie eine Tabelle mit der Dokumentation von Beurteilungen von all
 
 Folgende Spalten sind verfügbar:
 * Name: Name des Schülers
-* Beurteilungen: Anzeige von allen [Individualbeurteilungen](#individualbeurteilungen-), die in dieser Klasse verwendet wurden. Die Spaltenanzahl verändert sich dynamisch, angepasst an die Anzahl pro Schüler.
+* Beurteilungen: Anzeige von allen [Individualbeurteilungen](#individualbeurteilungen), die in dieser Klasse verwendet wurden. Die Spaltenanzahl verändert sich dynamisch, angepasst an die Anzahl pro Schüler.
 Spalten für alle Arten von [Online-Tests](../Online-Tests/index.md) wie Tests, Schularbeiten, Stundenwiederholungen, Rechenübungen oder Hausübungen. Jede Test-Art wird in einer eigenen Bereich angezeigt und kann auch pro Testart über die [Konfiguration der Anzeige](#konfiguration-der-anzeige-) wieder ausgeblendet werden.
 * Spalten zur Noteneingabe mit einer Teilspalte für Mahnungen und für die vergebene Note im Semester oder Schuljahr. Auch die Notenspalten sind über die [Konfiguration der Anzeige](#konfiguration-der-anzeige-) einstellbar.
 
-**Gewichtung**: Alle [Online-Tests](../Online-Tests/index.md) und alle [Klassenweise Beurteilungen](#klassenweise-beurteilungen-) haben standardmäßig eine Gewichtung von 1, die jedoch im Bedarfsfall geändert werden kann. Damit können zB. unterschiedlich lange Projektarbeiten angepasst gewichten oder Vorbereitungs-Tests für eine Schularbeit ganz von der Beurteilung ausklammern (Gewichtung = 0).
+**Gewichtung**: Alle [Online-Tests](../Online-Tests/index.md) und alle [Klassenweise Beurteilungen](#klassenweise-beurteilungen) haben standardmäßig eine Gewichtung von 1, die jedoch im Bedarfsfall geändert werden kann. Damit können zB. unterschiedlich lange Projektarbeiten angepasst gewichten oder Vorbereitungs-Tests für eine Schularbeit ganz von der Beurteilung ausklammern (Gewichtung = 0).
 
 Die ganze Tabelle ist bei vielen Eingaben auch vertikal verschiebbar (scrollbar)!
 
@@ -116,7 +116,7 @@ Noteneingabe, die sich aus mehreren Teilnoten zB. bei einer Laborübung zusammen
 Bei mehreren Teilnoten wird durch die definierte Gewichtung (ist neben der Beichnung der Teilnoten in Klammern gesetzt) automatisch die Gesamtnote berechnet, die jedoch noch durch den Lehrer überschrieben werden kann.
 
 #### Zusammengesetzte Beurteilungen
-Bei Klassenweisen Beurteilungen kann sich eine Note aus mehreren Teilnoten zusammensetzen. Die verwendeten Teilergebnisse und deren Gewichtung wird in der [Beurteilungskonfiguration#weitere-beurteilungen-](../Beurteilungskonfiguration#weitere-beurteilungen-/index.md#weitere-beurteilungen-) definiert.
+Bei Klassenweisen Beurteilungen kann sich eine Note aus mehreren Teilnoten zusammensetzen. Die verwendeten Teilergebnisse und deren Gewichtung wird in der [Beurteilungskonfiguration#weitere-beurteilungen-](../Beurteilungskonfiguration#weitere-beurteilungen-/index.md#weitere-beurteilungen) definiert.
 
 Beispiele für solche zusammengesetzten Noten sind Laborübungen (Prüfung, Mitarbeit, Protokoll) oder Projekte (Mitarbeit, Dokumentation). Es kann auch festgelegt werden, welche Teile der Note zwingend vorgeschrieben sind, um alle Anforderungen zu erfüllen. Beispiel hierfür ist eine Laborübung, wo ein Laborprotokoll zwingend erforderlich ist. Die Labornote erscheint im Katalog in roter Farbe wenn die Labornote negativ ist und dies ist unter folgenden Umständen der Fall:
 * die Note für das Protokoll ist (noch) nicht eingetragen
